@@ -14,15 +14,22 @@ A simple command-line C application that calculates **Simple Interest**, **Princ
 
 ## 🛠️ How to Compile & Run
 
+### Clone The Project
+
+```bash
+git clone https://github.com/christianonoh/si-calcutor.git
+cd si-calculator
+```
+
 ### 🔧 Compile:
 
 ```bash
-gcc simple_interest.c -o si_app
+make main
 ```
 
 ### ▶️ Run:
 
 ```bash
-./si_app
+./main
 ```
 
