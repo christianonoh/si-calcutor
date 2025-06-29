@@ -18,9 +18,11 @@ A simple command-line C application that calculates **Simple Interest**, **Princ
 
 ```bash
 gcc simple_interest.c -o si_app
+```
 
 ### ▶️ Run:
 
 ```bash
 ./si_app
+```
 
